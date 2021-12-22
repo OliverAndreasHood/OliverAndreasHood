@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OliverAndreasHood
 - 👀 I’m interested in Math, Programming, Creating, Tech_tricks and tips. I'm a musician with hearth sold to music and world of sounds.
-- 🌱 I’m currently learning Python (in Data Science).
+- 🌱 Currently learning Python (in Data Science and other purposes like AI).
 - 💞️ I’m looking to collaborate on interesting projects to learn some valuable skills.
 - 📫 How to reach me --> write on 6reenh00d20@gmail.com ;)
 
